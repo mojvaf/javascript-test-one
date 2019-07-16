@@ -1,6 +1,6 @@
 # JavaScript Test 
 
-## Complete all questions to the best of your abilities. You can use google, but you cannot ask other students or teachers for help. Also, do not copy code. Slack is not allowed!
+## Complete all questions to the best of your abilities. You can use google, but you cannot ask other students or teachers for help. Also, do not copy code. Using Slack or something similar is not allowed! Everybody cheating gets 0 points, also the people who help. 
 
 ### Create an Name.js file (in my case it would be Martina.js) and work from there. Please do not forget to comment in the question number above your answers.
 
